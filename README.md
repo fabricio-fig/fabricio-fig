@@ -1,5 +1,5 @@
-- 👋 Olá, me chamo Fabrício.
-- 👀 Tenho interesse em trabalhar como desenvolvedor backend a médio prazo.
+- Olá, meu nome é Fabrício Figueiredo.
+- Faço estágio como desenvolvedor Java Web.
 - 🌱 Atualmente estudo Java, HTML, CSS, Javascript e ReactJs.
 
 
