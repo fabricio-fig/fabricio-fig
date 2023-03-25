@@ -1,3 +1,3 @@
 - Hi, my name is Fabrício Figueiredo.
-- I'm a trainee Java web developer
+- I'm a trainee Java Web Developer
 - 🌱 My skills: Java, HTML, CSS, Javascript and PostgreSQL.
