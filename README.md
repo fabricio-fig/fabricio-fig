@@ -1,5 +1,3 @@
-- Olá, meu nome é Fabrício Figueiredo.
-- Faço estágio como desenvolvedor Java Web.
-- 🌱 Atualmente estudo Java, HTML, CSS, Javascript e ReactJs.
-
-
+- Hi, my name is Fabrício Figueiredo.
+- I'm a trainee Java web developer
+- 🌱 My skills: Java, HTML, CSS, Javascript and PostgreSQL.
