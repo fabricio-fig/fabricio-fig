@@ -8,6 +8,7 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="Fabricio-java" height="60" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="center" alt="Fabricio-spring" height="60" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+<img align="center" alt="Fabricio-js" height="60" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
 <img align="center" alt="Fabricio-js" height="60" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" alt="Fabricio-node" height="60" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 <img align="center" alt="Fabricio-vue" height="60" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
