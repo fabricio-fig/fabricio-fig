@@ -15,8 +15,8 @@
 <img align="center" alt="Fabricio-postgres" height="60" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 </div><br>
 <div>
-<a href="mailto:fabriciofgrd9@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/fabricio-figueiredo-656918216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:fabriciofgrd9@gmail.com" target="about_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="about_blank"></a>
+<a href="https://www.linkedin.com/in/fabricio-figueiredo-656918216/" target="about_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="about_blank"></a>
 </div>
 
 
