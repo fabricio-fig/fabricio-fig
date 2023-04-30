@@ -14,6 +14,7 @@
 <img align="center" alt="Fabricio-vue" height="60" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 <img align="center" alt="Fabricio-bootstrap" height="60" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <img align="center" alt="Fabricio-postgres" height="60" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="center" alt="Fabricio-postgres" height="60" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />   
 </div><br>
 <div>
 <a href="mailto:fabriciofgrd9@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
