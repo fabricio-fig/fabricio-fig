@@ -10,7 +10,13 @@
 <img align="center" alt="Fabricio-spring" height="60" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 <img align="center" alt="Fabricio-js" height="60" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" alt="Fabricio-node" height="60" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+<img align="center" alt="Fabricio-vue" height="60" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+<img align="center" alt="Fabricio-bootstrap" height="60" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 <img align="center" alt="Fabricio-postgres" height="60" witdh="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+</div><br>
+<div>
+<a href="mailto:fabriciofgrd9@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/fabricio-figueiredo-656918216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 
