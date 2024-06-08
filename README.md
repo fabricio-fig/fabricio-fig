@@ -1,6 +1,6 @@
 ## Hi, my name is Fabrício Figueiredo.
-- I'm a backend developer and work as a trainee Java Web Developer
-- 🌱 Studying Spring 
+- I'm a backend developer and work as a Java Web Developer
+- 🌱 Studying Java/Spring 
 
 [![Fabricio's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=fabricio-fig&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/fabricio-fig/fabricio-fig#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio-fig&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/fabricio-fig/fabricio-fig#gh-dark-mode-only)
